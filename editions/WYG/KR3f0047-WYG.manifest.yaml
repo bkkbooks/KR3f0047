@@ -1,0 +1,9166 @@
+canonical_identifier: bkk:krp/KR3f0047/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0047/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 幾何原本
+  identifiers:
+    krp: KR3f0047
+  tags:
+    kr-categories: KR3f
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0047.xml
+  edition:
+    short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0047_000-WYG.yaml, hash: 'sha256:9896364c3bd72ca18af6a0a8126e59bb91122321e80a95fb577adb9a99274719'}
+  - {seq: 1, filename: KR3f0047_001-WYG.yaml, hash: 'sha256:8149cf37d78bc05c6c42915f8da332c72d6d07fca8fdefe960f7388038a19a15'}
+  - {seq: 2, filename: KR3f0047_002-WYG.yaml, hash: 'sha256:9a627650a7f5530f859133d4d144f20eedd5a27403db9b51701dbb72a0e9ff61'}
+  - {seq: 3, filename: KR3f0047_003-WYG.yaml, hash: 'sha256:23a1525c459cde8b8bb01561ef46795ddea3e5b05a6ecadd56876e342f06b0d8'}
+  - {seq: 4, filename: KR3f0047_004-WYG.yaml, hash: 'sha256:7f6d789db40a242e8a04af499de10d00a7d31917f09e9a35cbe3d73a91013535'}
+  - {seq: 5, filename: KR3f0047_005-WYG.yaml, hash: 'sha256:97b4b6ed0c62333e4390465d5776999832e709bbd2c0c37db2b0e4e389ad5e20'}
+  - {seq: 6, filename: KR3f0047_006-WYG.yaml, hash: 'sha256:7a72fb9f982aa2f9007c8bb0c7b15faa50166ca7ef4cf7e068558fed7f1c1385'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0047_000-WYG.markers.yaml, hash: 'sha256:66a26041f3c44317caa19383d32bf6b95e66484e57507a0afd4a6054d04a5b88'}
+  - {seq: 1, role: markers, filename: assets/KR3f0047_001-WYG.markers.yaml, hash: 'sha256:71b35cc25af8788dbee445b315113e03e1fc10076badea41638a020fa0e8ef26'}
+  - {seq: 2, role: markers, filename: assets/KR3f0047_002-WYG.markers.yaml, hash: 'sha256:87fba4fffd00df8ab8d66ef64f634857fa2cb78dbbba33b99f61d24927cd870f'}
+  - {seq: 3, role: markers, filename: assets/KR3f0047_003-WYG.markers.yaml, hash: 'sha256:fba7af81f1320e6dc903b510a829377af46035fb44198e0d70ca1f09c80f336e'}
+  - {seq: 4, role: markers, filename: assets/KR3f0047_004-WYG.markers.yaml, hash: 'sha256:eee3e7cf665c2c42266b225052e4ab219c508d4dab0a0b219b4d33080537c2c0'}
+  - {seq: 5, role: markers, filename: assets/KR3f0047_005-WYG.markers.yaml, hash: 'sha256:d2b642bab6bec6e57019eb71d4410294bded14e97c6b08e0e6bb58c6ba0f970f'}
+  - {seq: 6, role: markers, filename: assets/KR3f0047_006-WYG.markers.yaml, hash: 'sha256:3fdbf0832a7aabbc21181889df2d8d107740fbdc8fe07b610d1dfe86696771d0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0047_WYG_000-d12head.s1
+    span:
+    - front
+    - 0
+    - 562
+  label: 幾何原本序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0047_WYG_000-d11head.s3
+    span:
+    - body
+    - 0
+    - 382
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d21head.s3
+    span:
+    - body
+    - 0
+    - 273
+  label: 卷一之首
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 273
+    - 1707
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d23head.s1
+    span:
+    - body
+    - 1707
+    - 1950
+  label: 求作四則
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d28head.s1.3
+    span:
+    - body
+    - 1950
+    - 1958
+  label: 長者增之可至無窮
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d214head.s1
+    span:
+    - body
+    - 1958
+    - 1969
+  label: 公論十九則
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d215p2.s3
+    span:
+    - body
+    - 1969
+    - 1989
+  label: 第一論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d215p4.s5
+    span:
+    - body
+    - 1989
+    - 2009
+  label: 第二論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d215p6.s7
+    span:
+    - body
+    - 2009
+    - 2029
+  label: 第三論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d215p8.s9
+    span:
+    - body
+    - 2029
+    - 2846
+  label: 第四論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d215p55.s86
+    span:
+    - body
+    - 2846
+    - 3094
+  label: 泰西利瑪竇口譯吳淞涂光啓筆受
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d217head.s4
+    span:
+    - body
+    - 3094
+    - 5454
+  label: 諸三角形
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d218p1.s5
+    span:
+    - body
+    - 5454
+    - 5630
+  label: 第十題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d220p1.s5
+    span:
+    - body
+    - 5630
+    - 5879
+  label: 第十一題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 5879
+    - 5958
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 5958
+    - 6072
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 6072
+    - 6155
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 6155
+    - 6155
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 6155
+    - 6256
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d235p1.s5
+    span:
+    - body
+    - 6256
+    - 6494
+  label: 第十二題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 6494
+    - 6600
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d238p1.s5
+    span:
+    - body
+    - 6600
+    - 7540
+  label: 第十三題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d240head.s4
+    span:
+    - body
+    - 7540
+    - 7559
+  label: 增題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d241head.s4.1
+    span:
+    - body
+    - 7559
+    - 7566
+  label: 戊丙乙兩交角等
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 7566
+    - 7566
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d243head.s4
+    span:
+    - body
+    - 7566
+    - 7575
+  label: 論曰
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 7575
+    - 7595
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d245head.s4.1
+    span:
+    - body
+    - 7595
+    - 7598
+  label: 公論二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 7598
+    - 7611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d247p39.1
+    span:
+    - body
+    - 7611
+    - 10206
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d247p39.s161
+    span:
+    - body
+    - 10206
+    - 11825
+  label: 第二十六題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 11825
+    - 11861
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 11861
+    - 11973
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 11973
+    - 11988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 11988
+    - 12055
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12055
+    - 12077
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12077
+    - 12077
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12077
+    - 12351
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d255head.s4
+    span:
+    - body
+    - 12351
+    - 12352
+  label: 増
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12352
+    - 12564
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12564
+    - 12564
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12564
+    - 12721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12721
+    - 12721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12721
+    - 12765
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12765
+    - 12991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12991
+    - 12991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12991
+    - 12991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 12991
+    - 14556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14556
+    - 14556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14556
+    - 14556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14556
+    - 14556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14556
+    - 14556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14556
+    - 14615
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14615
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 14722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 14722
+    - 16255
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0047_WYG_001-d277head.s4
+    span:
+    - body
+    - 16255
+    - 16359
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 16359
+    - 16359
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 16359
+    - 16359
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 16359
+    - 16978
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 16978
+    - 17022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17022
+    - 17022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17022
+    - 17022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17022
+    - 17127
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17127
+    - 17127
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17127
+    - 17127
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17127
+    - 17127
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17127
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17261
+    - 17280
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17280
+    - 17406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17406
+    - 17406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17406
+    - 17406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17406
+    - 17451
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17451
+    - 17451
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17451
+    - 17451
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17451
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 17688
+    - 17974
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d31head.s3
+    span:
+    - body
+    - 0
+    - 359
+  label: 界説二則
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d31p12.s33.1
+    span:
+    - body
+    - 359
+    - 671
+  label: 幾何原本第二卷
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d32head.s4.1
+    span:
+    - body
+    - 671
+    - 723
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 723
+    - 723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 723
+    - 723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 723
+    - 771
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 771
+    - 771
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 771
+    - 771
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 771
+    - 995
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d39head.s4
+    span:
+    - body
+    - 995
+    - 1041
+  label: 本篇一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1041
+    - 1041
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1041
+    - 1041
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d312p1.s5
+    span:
+    - body
+    - 1041
+    - 1353
+  label: 第三題
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d313head.s4
+    span:
+    - body
+    - 1353
+    - 1355
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1355
+    - 1355
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1355
+    - 1355
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1355
+    - 1971
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d317head.s4
+    span:
+    - body
+    - 1971
+    - 1973
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 1973
+    - 1973
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d319p1.s5
+    span:
+    - body
+    - 1973
+    - 2435
+  label: 第五題
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d320head.s4
+    span:
+    - body
+    - 2435
+    - 2474
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 2474
+    - 2474
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 2474
+    - 2886
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d323head.s4
+    span:
+    - body
+    - 2886
+    - 2888
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 2888
+    - 2888
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d325p1.s5
+    span:
+    - body
+    - 2888
+    - 3337
+  label: 第七題
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3337
+    - 3337
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3337
+    - 3337
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d328p1.s5
+    span:
+    - body
+    - 3337
+    - 3836
+  label: 第八題
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d329head.s4
+    span:
+    - body
+    - 3836
+    - 3838
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3838
+    - 3838
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3838
+    - 3838
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3838
+    - 3838
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 3838
+    - 4428
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d334head.s4
+    span:
+    - body
+    - 4428
+    - 4430
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 4430
+    - 4430
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 4430
+    - 4886
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d337head.s4
+    span:
+    - body
+    - 4886
+    - 4888
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 4888
+    - 4888
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 4888
+    - 5331
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d340head.s4
+    span:
+    - body
+    - 5331
+    - 6178
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0047_WYG_002-d341head.s4
+    span:
+    - body
+    - 6178
+    - 6180
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6180
+    - 6219
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6219
+    - 6219
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6219
+    - 6235
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6235
+    - 6603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6603
+    - 6603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6603
+    - 6711
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6711
+    - 6711
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6711
+    - 6711
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6711
+    - 6711
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6711
+    - 6731
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6731
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 6864
+    - 6895
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41head.s3
+    span:
+    - body
+    - 0
+    - 104
+  label: 界説十則
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41p3.s11
+    span:
+    - body
+    - 104
+    - 176
+  label: 第二界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41p6.s17
+    span:
+    - body
+    - 176
+    - 229
+  label: 第三界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41p9.s22
+    span:
+    - body
+    - 229
+    - 489
+  label: 第四界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41p15.s41
+    span:
+    - body
+    - 489
+    - 546
+  label: 第六界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d41p18.s46
+    span:
+    - body
+    - 546
+    - 651
+  label: 第七界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d42head.s1
+    span:
+    - body
+    - 651
+    - 744
+  label: 圜角三種之外
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 744
+    - 744
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d44p1.s2
+    span:
+    - body
+    - 744
+    - 796
+  label: 第九界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d44p3.s6
+    span:
+    - body
+    - 796
+    - 854
+  label: 第十界
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d45head.s1
+    span:
+    - body
+    - 854
+    - 860
+  label: 又有兩圜或等
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 860
+    - 873
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47head.s1.1
+    span:
+    - body
+    - 873
+    - 906
+  label: 幾何原本第三卷之首终
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p5.s9
+    span:
+    - body
+    - 906
+    - 1121
+  label: 第一題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p9.s23
+    span:
+    - body
+    - 1121
+    - 1148
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p10.s25
+    span:
+    - body
+    - 1148
+    - 1393
+  label: 第二題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p14.s39
+    span:
+    - body
+    - 1393
+    - 1957
+  label: 第三題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p24.s73
+    span:
+    - body
+    - 1957
+    - 2076
+  label: 第五題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p28.s82
+    span:
+    - body
+    - 2076
+    - 2192
+  label: 第六題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p32.s91
+    span:
+    - body
+    - 2192
+    - 2721
+  label: 第七題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p39.s121
+    span:
+    - body
+    - 2721
+    - 3341
+  label: 第八題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p46.s157
+    span:
+    - body
+    - 3341
+    - 3618
+  label: 第九題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p50.s174
+    span:
+    - body
+    - 3618
+    - 3888
+  label: 第十題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p54.s192
+    span:
+    - body
+    - 3888
+    - 4199
+  label: 第十一題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p62.s210
+    span:
+    - body
+    - 4199
+    - 4384
+  label: 第十二題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p66.s221
+    span:
+    - body
+    - 4384
+    - 4874
+  label: 第十三題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p70.s249
+    span:
+    - body
+    - 4874
+    - 5301
+  label: 第十四題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p76.s274
+    span:
+    - body
+    - 5301
+    - 5604
+  label: 第十五題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p80.s292
+    span:
+    - body
+    - 5604
+    - 6066
+  label: 第十六題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d47p87.s320
+    span:
+    - body
+    - 6066
+    - 6110
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d48head.s4
+    span:
+    - body
+    - 6110
+    - 6114
+  label: 増正論曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6114
+    - 6114
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6114
+    - 6114
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6114
+    - 6114
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6114
+    - 6138
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d413head.s4
+    span:
+    - body
+    - 6138
+    - 6142
+  label: 増正論曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6142
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6142
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6142
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6142
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6142
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6142
+    - 6148
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6148
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6395
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6885
+    - 6885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d455head.s4
+    span:
+    - body
+    - 6885
+    - 6887
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6887
+    - 6887
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6887
+    - 6887
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6887
+    - 6974
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6974
+    - 7068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7068
+    - 7068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7068
+    - 7068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7068
+    - 7068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7068
+    - 7068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d464head.s4
+    span:
+    - body
+    - 7068
+    - 7070
+  label: 解曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7070
+    - 7070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7070
+    - 7070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7070
+    - 7070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7070
+    - 7070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7070
+    - 7070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d470p1.s5
+    span:
+    - body
+    - 7070
+    - 7262
+  label: 第十七題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d470p4.s17
+    span:
+    - body
+    - 7262
+    - 7453
+  label: 第十八題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d470p7.s28
+    span:
+    - body
+    - 7453
+    - 7561
+  label: 第十九題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d470p10.s35
+    span:
+    - body
+    - 7561
+    - 7986
+  label: 第二十題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d471head.s4
+    span:
+    - body
+    - 7986
+    - 7988
+  label: 論曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 7988
+    - 7988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d473p1.s5
+    span:
+    - body
+    - 7988
+    - 8524
+  label: 第二十一題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d473p9.s39
+    span:
+    - body
+    - 8524
+    - 8743
+  label: 第二十二題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d473p13.s53
+    span:
+    - body
+    - 8743
+    - 8889
+  label: 第二十三題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d473p16.s62
+    span:
+    - body
+    - 8889
+    - 9051
+  label: 第二十四題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d473p20.s74
+    span:
+    - body
+    - 9051
+    - 9723
+  label: 第二十五題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9723
+    - 9723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9723
+    - 9766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9766
+    - 9766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9766
+    - 9766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9766
+    - 9834
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9834
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9968
+    - 9994
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 9994
+    - 9994
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d488p1.s5
+    span:
+    - body
+    - 9994
+    - 10377
+  label: 第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d489head.s4
+    span:
+    - body
+    - 10377
+    - 10393
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d490p1.s5
+    span:
+    - body
+    - 10393
+    - 10657
+  label: 第二十七題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d491head.s4
+    span:
+    - body
+    - 10657
+    - 10702
+  label: 則兩線界相去之圜分等
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10702
+    - 10702
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10702
+    - 10721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10721
+    - 10755
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10755
+    - 10755
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10755
+    - 10826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 10826
+    - 10826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d498p1.s5
+    span:
+    - body
+    - 10826
+    - 11010
+  label: 第二十八題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d498p5.s18
+    span:
+    - body
+    - 11010
+    - 11147
+  label: 第二十九題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d499head.s4
+    span:
+    - body
+    - 11147
+    - 11149
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p1.s5
+    span:
+    - body
+    - 11149
+    - 11305
+  label: 第三十題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p5.s16
+    span:
+    - body
+    - 11305
+    - 12220
+  label: 第三十一題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p22.s74
+    span:
+    - body
+    - 12220
+    - 12585
+  label: 第三十二題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p26.s96
+    span:
+    - body
+    - 12585
+    - 12915
+  label: 第三十三題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p32.s117
+    span:
+    - body
+    - 12915
+    - 13027
+  label: 第三十四題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p35.s125
+    span:
+    - body
+    - 13027
+    - 13788
+  label: 第三十五題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p41.s169
+    span:
+    - body
+    - 13788
+    - 14744
+  label: 第三十六題
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0047_WYG_003-d4100p49.s224
+    span:
+    - body
+    - 14744
+    - 15064
+  label: 第三十七題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51head.s3
+    span:
+    - body
+    - 0
+    - 164
+  label: 界說七則
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p4.s15
+    span:
+    - body
+    - 164
+    - 219
+  label: 第二界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p7.s20
+    span:
+    - body
+    - 219
+    - 256
+  label: 第三界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p10.s24
+    span:
+    - body
+    - 256
+    - 292
+  label: 第四界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p13.s28
+    span:
+    - body
+    - 292
+    - 315
+  label: 第五界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p16.s31
+    span:
+    - body
+    - 315
+    - 338
+  label: 第六界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p19.s34
+    span:
+    - body
+    - 338
+    - 391
+  label: 第七界
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p29.s46
+    span:
+    - body
+    - 391
+    - 405
+  label: 幾何原本卷四之首
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p30.s50
+    span:
+    - body
+    - 405
+    - 553
+  label: 第一題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p32.s59
+    span:
+    - body
+    - 553
+    - 739
+  label: 第二題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p36.s70
+    span:
+    - body
+    - 739
+    - 1055
+  label: 第三題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p40.s88
+    span:
+    - body
+    - 1055
+    - 1262
+  label: 第四題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p43.s101
+    span:
+    - body
+    - 1262
+    - 1501
+  label: 第五題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p46.s115
+    span:
+    - body
+    - 1501
+    - 1550
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d51p47.s118
+    span:
+    - body
+    - 1550
+    - 1585
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d52head.s4
+    span:
+    - body
+    - 1585
+    - 1608
+  label: 増
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 1608
+    - 1612
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 1612
+    - 1696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 1696
+    - 1696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p1.s5
+    span:
+    - body
+    - 1696
+    - 1863
+  label: 第六題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p5.s16
+    span:
+    - body
+    - 1863
+    - 2103
+  label: 第七題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p9.s30
+    span:
+    - body
+    - 2103
+    - 2328
+  label: 第八題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p11.s43
+    span:
+    - body
+    - 2328
+    - 2507
+  label: 第九題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p14.s54
+    span:
+    - body
+    - 2507
+    - 2909
+  label: 第十題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p18.s76
+    span:
+    - body
+    - 2909
+    - 3218
+  label: 第十一題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p22.s94
+    span:
+    - body
+    - 3218
+    - 3878
+  label: 第十二題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p26.s127
+    span:
+    - body
+    - 3878
+    - 4234
+  label: 第十三題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p29.s147
+    span:
+    - body
+    - 4234
+    - 4430
+  label: 第十四題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p32.s159
+    span:
+    - body
+    - 4430
+    - 4883
+  label: 第十五題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p35.s183
+    span:
+    - body
+    - 4883
+    - 4922
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p36.s185
+    span:
+    - body
+    - 4922
+    - 4972
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d56p37.s188
+    span:
+    - body
+    - 4972
+    - 5217
+  label: 第十六題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d57head.s4
+    span:
+    - body
+    - 5217
+    - 5276
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d58head.s4
+    span:
+    - body
+    - 5276
+    - 5300
+  label: 即命三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5300
+    - 5320
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5320
+    - 5338
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5338
+    - 5353
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5353
+    - 5356
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d513p1.s5
+    span:
+    - body
+    - 5356
+    - 5379
+  label: 增題
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5379
+    - 5398
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5398
+    - 5414
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5414
+    - 5440
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5440
+    - 5440
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5440
+    - 5459
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5459
+    - 5478
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5478
+    - 5500
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5500
+    - 5526
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5526
+    - 5535
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5535
+    - 5571
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d524head.s4.1
+    span:
+    - body
+    - 5571
+    - 5605
+  label: 而甲丙爲五分圜之一
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5605
+    - 5615
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5615
+    - 5641
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5641
+    - 5663
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5663
+    - 5674
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 5674
+    - 5674
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d530p1.s5
+    span:
+    - body
+    - 5674
+    - 5734
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d530p2.s8
+    span:
+    - body
+    - 5734
+    - 5780
+  label: 三系
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0047_WYG_004-d530p3.s11
+    span:
+    - body
+    - 5780
+    - 6558
+  label: 四系
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d61head.s3
+    span:
+    - body
+    - 0
+    - 51
+  label: 界説十九則
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 51
+    - 71
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 71
+    - 81
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 81
+    - 100
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 100
+    - 105
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p1.s2
+    span:
+    - body
+    - 105
+    - 426
+  label: 第一界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p4.s20
+    span:
+    - body
+    - 426
+    - 482
+  label: 第二界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p7.s24
+    span:
+    - body
+    - 482
+    - 2663
+  label: 第三界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p30.s141
+    span:
+    - body
+    - 2663
+    - 2894
+  label: 第四界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p34.s156
+    span:
+    - body
+    - 2894
+    - 4213
+  label: 第五界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p44.s232
+    span:
+    - body
+    - 4213
+    - 4274
+  label: 第七界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p46.s237
+    span:
+    - body
+    - 4274
+    - 4674
+  label: 第八界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p50.s262
+    span:
+    - body
+    - 4674
+    - 4747
+  label: 第九界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p52.s268
+    span:
+    - body
+    - 4747
+    - 5186
+  label: 第十界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p56.s293
+    span:
+    - body
+    - 5186
+    - 5387
+  label: 第十一界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p60.s307
+    span:
+    - body
+    - 5387
+    - 5494
+  label: 第十二界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p66.s316
+    span:
+    - body
+    - 5494
+    - 5552
+  label: 第十三界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p71.s322
+    span:
+    - body
+    - 5552
+    - 5638
+  label: 第十四界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p75.s329
+    span:
+    - body
+    - 5638
+    - 5695
+  label: 第十五界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p79.s335
+    span:
+    - body
+    - 5695
+    - 5746
+  label: 第十六界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p84.s341
+    span:
+    - body
+    - 5746
+    - 5857
+  label: 第十七界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p87.s349
+    span:
+    - body
+    - 5857
+    - 5949
+  label: 第十八界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d66p91.s357
+    span:
+    - body
+    - 5949
+    - 6076
+  label: 第十九界
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d67head.s1
+    span:
+    - body
+    - 6076
+    - 6097
+  label: 増
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6097
+    - 6115
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6115
+    - 6129
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6129
+    - 6193
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6193
+    - 6213
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6213
+    - 6217
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d613p8.1
+    span:
+    - body
+    - 6217
+    - 6217
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d613p9.1
+    span:
+    - body
+    - 6217
+    - 6217
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d613p9.s13
+    span:
+    - body
+    - 6217
+    - 6457
+  label: 第一題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d613p13.s28
+    span:
+    - body
+    - 6457
+    - 6712
+  label: 第二題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d614head.s4
+    span:
+    - body
+    - 6712
+    - 6733
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6733
+    - 6753
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6753
+    - 6770
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6770
+    - 6834
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6834
+    - 6881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6881
+    - 6881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6881
+    - 6886
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 6886
+    - 6895
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p1.s5
+    span:
+    - body
+    - 6895
+    - 7249
+  label: 第三題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p4.s26
+    span:
+    - body
+    - 7249
+    - 7658
+  label: 第四題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p8.s51
+    span:
+    - body
+    - 7658
+    - 7774
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p9.s57
+    span:
+    - body
+    - 7774
+    - 7842
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p10.s61
+    span:
+    - body
+    - 7842
+    - 8255
+  label: 第五題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p15.s86
+    span:
+    - body
+    - 8255
+    - 8645
+  label: 第六題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p18.s109
+    span:
+    - body
+    - 8645
+    - 8919
+  label: 第七題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p23.s127
+    span:
+    - body
+    - 8919
+    - 9485
+  label: 第八題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p25.s157
+    span:
+    - body
+    - 9485
+    - 9649
+  label: 第九題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p30.s168
+    span:
+    - body
+    - 9649
+    - 9876
+  label: 第十題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p34.s182
+    span:
+    - body
+    - 9876
+    - 10127
+  label: 第十一題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p38.s198
+    span:
+    - body
+    - 10127
+    - 10438
+  label: 第十二題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d622p42.s218
+    span:
+    - body
+    - 10438
+    - 10732
+  label: 第十三題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d623head.s4
+    span:
+    - body
+    - 10732
+    - 10752
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 10752
+    - 10757
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d625p1.s5
+    span:
+    - body
+    - 10757
+    - 11090
+  label: 第十四題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d625p5.s25
+    span:
+    - body
+    - 11090
+    - 11283
+  label: 第十五題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d625p9.s37
+    span:
+    - body
+    - 11283
+    - 11522
+  label: 第十六題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d625p12.s52
+    span:
+    - body
+    - 11522
+    - 12024
+  label: 第十七題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d625p16.s81
+    span:
+    - body
+    - 12024
+    - 12157
+  label: 第十八題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12157
+    - 12183
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12183
+    - 12203
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12203
+    - 12227
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12227
+    - 12246
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d630p2.1
+    span:
+    - body
+    - 12246
+    - 12429
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d630p2.s16
+    span:
+    - body
+    - 12429
+    - 12744
+  label: 第十九題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d631head.s4
+    span:
+    - body
+    - 12744
+    - 12770
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12770
+    - 12784
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12784
+    - 12801
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12801
+    - 12876
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 12876
+    - 12898
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d636p1.s5
+    span:
+    - body
+    - 12898
+    - 13298
+  label: 第二十題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d636p8.s29
+    span:
+    - body
+    - 13298
+    - 13701
+  label: 第二十一題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d636p16.s54
+    span:
+    - body
+    - 13701
+    - 14098
+  label: 第二十二題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d636p20.s81
+    span:
+    - body
+    - 14098
+    - 14516
+  label: 第二十三題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d636p23.s106
+    span:
+    - body
+    - 14516
+    - 14756
+  label: 第二十四題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d637head.s4
+    span:
+    - body
+    - 14756
+    - 14758
+  label: 注曰
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d638p1.s5
+    span:
+    - body
+    - 14758
+    - 14777
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14777
+    - 14796
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14796
+    - 14811
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14811
+    - 14831
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14831
+    - 14854
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14854
+    - 14873
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14873
+    - 14873
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14873
+    - 14892
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14892
+    - 14912
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 14912
+    - 14997
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p1.s5
+    span:
+    - body
+    - 14997
+    - 15204
+  label: 第二十五題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p5.s18
+    span:
+    - body
+    - 15204
+    - 15362
+  label: 第二十六題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p8.s28
+    span:
+    - body
+    - 15362
+    - 15536
+  label: 第二十七題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p12.s39
+    span:
+    - body
+    - 15536
+    - 15765
+  label: 第二十八題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p15.s53
+    span:
+    - body
+    - 15765
+    - 15994
+  label: 第二十九題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p18.s67
+    span:
+    - body
+    - 15994
+    - 16171
+  label: 第三十題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p22.s78
+    span:
+    - body
+    - 16171
+    - 16478
+  label: 第三十一題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p28.s96
+    span:
+    - body
+    - 16478
+    - 16785
+  label: 第三十二題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p32.s115
+    span:
+    - body
+    - 16785
+    - 17010
+  label: 第三十三題
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0047_WYG_005-d648p37.s130
+    span:
+    - body
+    - 17010
+    - 17936
+  label: 第三十四題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71head.s3
+    span:
+    - body
+    - 0
+    - 166
+  label: 界說六則
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p5.s16
+    span:
+    - body
+    - 166
+    - 295
+  label: 第二界
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p8.s26
+    span:
+    - body
+    - 295
+    - 411
+  label: 第三界
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p11.s34
+    span:
+    - body
+    - 411
+    - 569
+  label: 第四界
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p14.s44
+    span:
+    - body
+    - 569
+    - 2411
+  label: 第五界
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p28.s155
+    span:
+    - body
+    - 2411
+    - 2598
+  label: 第六界
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d71p38.s176
+    span:
+    - body
+    - 2598
+    - 3124
+  label: 幾何原本卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3124
+    - 3132
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3132
+    - 3220
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d74head.s4.1
+    span:
+    - body
+    - 3220
+    - 3248
+  label: 與戊己等
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3248
+    - 3248
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3248
+    - 3272
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3272
+    - 3281
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3281
+    - 3323
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3323
+    - 3337
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3337
+    - 3359
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3359
+    - 3380
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3380
+    - 3401
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3401
+    - 3419
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 3419
+    - 3419
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d715p1.s5
+    span:
+    - body
+    - 3419
+    - 3968
+  label: 第二題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d715p7.s34.1
+    span:
+    - body
+    - 3968
+    - 4418
+  label: 二支
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d715p11.s59.1
+    span:
+    - body
+    - 4418
+    - 4918
+  label: 第四題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d715p14.s86
+    span:
+    - body
+    - 4918
+    - 5034
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d716head.s4
+    span:
+    - body
+    - 5034
+    - 5057
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5057
+    - 5057
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5057
+    - 5110
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d719head.s4
+    span:
+    - body
+    - 5110
+    - 5112
+  label: 論曰
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5112
+    - 5144
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5144
+    - 5144
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5144
+    - 5167
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5167
+    - 5188
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5188
+    - 5208
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5208
+    - 5225
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 5225
+    - 5244
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d727p1.s5
+    span:
+    - body
+    - 5244
+    - 5471
+  label: 第五題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d727p3.1.2
+    span:
+    - body
+    - 5471
+    - 5623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d727p3.s24.1
+    span:
+    - body
+    - 5623
+    - 6710
+  label: 第六題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d727p15.s83
+    span:
+    - body
+    - 6710
+    - 7586
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d728head.s4.1
+    span:
+    - body
+    - 7586
+    - 7608
+  label: 于寅
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7608
+    - 7651
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7651
+    - 7651
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7651
+    - 7688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7688
+    - 7688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7688
+    - 7721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7721
+    - 7746
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7746
+    - 7746
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7746
+    - 7766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7766
+    - 7784
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7784
+    - 7903
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7903
+    - 7973
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7973
+    - 7989
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 7989
+    - 8011
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8011
+    - 8034
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8034
+    - 8068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8068
+    - 8068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8068
+    - 8088
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8088
+    - 8108
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8108
+    - 8127
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8127
+    - 8136
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d749p1.s5
+    span:
+    - body
+    - 8136
+    - 8159
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8159
+    - 8159
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8159
+    - 8228
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8228
+    - 8246
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8246
+    - 8246
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8246
+    - 8283
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8283
+    - 8283
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8283
+    - 8344
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8344
+    - 8363
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8363
+    - 8381
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8381
+    - 8401
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8401
+    - 8419
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8419
+    - 8441
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8441
+    - 8482
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8482
+    - 8482
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8482
+    - 8542
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8542
+    - 8562
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8562
+    - 8577
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8577
+    - 8582
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8582
+    - 8626
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8626
+    - 8626
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8626
+    - 8657
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8657
+    - 8660
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8660
+    - 8699
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8699
+    - 8702
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8702
+    - 8702
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d775p1.s5
+    span:
+    - body
+    - 8702
+    - 8916
+  label: 第十一題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d776head.s4.1
+    span:
+    - body
+    - 8916
+    - 8929
+  label: 末從丙作丙丁
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8929
+    - 8952
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8952
+    - 8970
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8970
+    - 8988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 8988
+    - 9009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9009
+    - 9009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d782p1.s5
+    span:
+    - body
+    - 9009
+    - 9433
+  label: 第十二題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d783head.s4
+    span:
+    - body
+    - 9433
+    - 9445
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9445
+    - 9514
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9514
+    - 9534
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9534
+    - 9553
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9553
+    - 9553
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9553
+    - 9573
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9573
+    - 9595
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 9595
+    - 9611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d791p1.s5
+    span:
+    - body
+    - 9611
+    - 10041
+  label: 第十四題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d791p7.s31
+    span:
+    - body
+    - 10041
+    - 10734
+  label: 第十五題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d792head.s4
+    span:
+    - body
+    - 10734
+    - 11052
+  label: 以上二題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d792p9.s26
+    span:
+    - body
+    - 11052
+    - 11859
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d792p15.s72
+    span:
+    - body
+    - 11859
+    - 11888
+  label: 増
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d793head.s4.1
+    span:
+    - body
+    - 11888
+    - 11917
+  label: 與相似而體勢等
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11917
+    - 11934
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11934
+    - 11953
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11953
+    - 11972
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11972
+    - 11972
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11972
+    - 11993
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 11993
+    - 12032
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12032
+    - 12032
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12032
+    - 12052
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12052
+    - 12071
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12071
+    - 12090
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12090
+    - 12107
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12107
+    - 12151
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12151
+    - 12151
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12151
+    - 12171
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12171
+    - 12186
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 12186
+    - 12196
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7110p1.s5
+    span:
+    - body
+    - 12196
+    - 12640
+  label: 第十九題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7110p6.s32
+    span:
+    - body
+    - 12640
+    - 12844
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7110p7.s42.1
+    span:
+    - body
+    - 12844
+    - 13558
+  label: 三支
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7110p14.s83.2.4
+    span:
+    - body
+    - 13558
+    - 13560
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7111head.s4.1
+    span:
+    - body
+    - 13560
+    - 13578
+  label: 此直線
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13578
+    - 13602
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13602
+    - 13602
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13602
+    - 13669
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13669
+    - 13693
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13693
+    - 13720
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7117head.s4
+    span:
+    - body
+    - 13720
+    - 13737
+  label: 後解曰
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13737
+    - 13766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7119p2.1
+    span:
+    - body
+    - 13766
+    - 13766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7119p2.s6
+    span:
+    - body
+    - 13766
+    - 13815
+  label: 系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 13815
+    - 13828
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7121p1.s5
+    span:
+    - body
+    - 13828
+    - 14023
+  label: 第二十一題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7121p4.s17
+    span:
+    - body
+    - 14023
+    - 14996
+  label: 第二十二題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 14996
+    - 15039
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15039
+    - 15039
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15039
+    - 15056
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15056
+    - 15084
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15084
+    - 15104
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15104
+    - 15104
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7128p1.s5
+    span:
+    - body
+    - 15104
+    - 15523
+  label: 第二十三題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7129head.s4
+    span:
+    - body
+    - 15523
+    - 15547
+  label: 後注曰
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15547
+    - 15566
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15566
+    - 15585
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15585
+    - 15604
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15604
+    - 15623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15623
+    - 15642
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15642
+    - 15661
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15661
+    - 15684
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15684
+    - 15704
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15704
+    - 15724
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15724
+    - 15746
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15746
+    - 15766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15766
+    - 15788
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15788
+    - 15808
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15808
+    - 15827
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15827
+    - 15846
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15846
+    - 15865
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15865
+    - 15884
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 15884
+    - 15894
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p1.s5
+    span:
+    - body
+    - 15894
+    - 16257
+  label: 第二十四題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p5.s25
+    span:
+    - body
+    - 16257
+    - 16583
+  label: 第二十五題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p9.s44
+    span:
+    - body
+    - 16583
+    - 16877
+  label: 第二十六題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p13.s62
+    span:
+    - body
+    - 16877
+    - 17756
+  label: 第二十七題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p20.s109
+    span:
+    - body
+    - 17756
+    - 18379
+  label: 第二十八題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p24.s144
+    span:
+    - body
+    - 18379
+    - 18855
+  label: 第二十九題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p28.s170
+    span:
+    - body
+    - 18855
+    - 19206
+  label: 第三十題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7148p33.s191
+    span:
+    - body
+    - 19206
+    - 20013
+  label: 第三十一題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7149head.s4
+    span:
+    - body
+    - 20013
+    - 20040
+  label: 増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20040
+    - 20040
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20040
+    - 20087
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20087
+    - 20087
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20087
+    - 20087
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20087
+    - 20108
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20108
+    - 20130
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20130
+    - 20151
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20151
+    - 20184
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20184
+    - 20184
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20184
+    - 20203
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20203
+    - 20226
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20226
+    - 20245
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20245
+    - 20265
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20265
+    - 20282
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 20282
+    - 20282
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7165p1.s5
+    span:
+    - body
+    - 20282
+    - 20624
+  label: 第三十二題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7165p5.s24
+    span:
+    - body
+    - 20624
+    - 21615
+  label: 第三十三題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7165p9.s77
+    span:
+    - body
+    - 21615
+    - 21631
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7165p10.s78
+    span:
+    - body
+    - 21631
+    - 21680
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7166head.s4
+    span:
+    - body
+    - 21680
+    - 21726
+  label: 按丁先生言
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21726
+    - 21726
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21726
+    - 21746
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21746
+    - 21746
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21746
+    - 21762
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21762
+    - 21798
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21798
+    - 21844
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7173head.s4.2
+    span:
+    - body
+    - 21844
+    - 21851
+  label: 五卷界說二十増
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21851
+    - 21866
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21866
+    - 21902
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21902
+    - 21910
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21910
+    - 21948
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21948
+    - 21948
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21948
+    - 21985
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21985
+    - 21985
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 21985
+    - 22028
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22028
+    - 22028
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22028
+    - 22044
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22044
+    - 22066
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22066
+    - 22092
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22092
+    - 22107
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22107
+    - 22187
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22187
+    - 22211
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22211
+    - 22228
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22228
+    - 22279
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22279
+    - 22279
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22279
+    - 22306
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22306
+    - 22306
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7194p1.s5
+    span:
+    - body
+    - 22306
+    - 22325
+  label: 一系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22325
+    - 22346
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7196p1.s5
+    span:
+    - body
+    - 22346
+    - 22368
+  label: 二系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22368
+    - 22382
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22382
+    - 22398
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7199p1.s5
+    span:
+    - body
+    - 22398
+    - 22418
+  label: 三系
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22418
+    - 22445
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22445
+    - 22455
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7202p1.s5
+    span:
+    - body
+    - 22455
+    - 22474
+  label: 一増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22474
+    - 22566
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22566
+    - 22585
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22585
+    - 22613
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22613
+    - 22620
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22620
+    - 22656
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22656
+    - 22685
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22685
+    - 22685
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22685
+    - 22707
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22707
+    - 22721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22721
+    - 22740
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22740
+    - 22762
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22762
+    - 22802
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22802
+    - 22802
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22802
+    - 22828
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22828
+    - 22864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22864
+    - 22864
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22864
+    - 22897
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22897
+    - 22897
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22897
+    - 22916
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22916
+    - 22966
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22966
+    - 22984
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 22984
+    - 23003
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23003
+    - 23091
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23091
+    - 23091
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23091
+    - 23159
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23159
+    - 23183
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23183
+    - 23200
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23200
+    - 23266
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23266
+    - 23266
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7232p1.s5
+    span:
+    - body
+    - 23266
+    - 23284
+  label: 二増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23284
+    - 23306
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23306
+    - 23328
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23328
+    - 23392
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23392
+    - 23395
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23395
+    - 23422
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23422
+    - 23431
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23431
+    - 23457
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23457
+    - 23457
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7241p1.s5
+    span:
+    - body
+    - 23457
+    - 23475
+  label: 三増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23475
+    - 23499
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23499
+    - 23513
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23513
+    - 23561
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23561
+    - 23561
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23561
+    - 23618
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7247head.s4
+    span:
+    - body
+    - 23618
+    - 23620
+  label: 今附
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7248p1.s5
+    span:
+    - body
+    - 23620
+    - 23639
+  label: 四増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23639
+    - 23662
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23662
+    - 23683
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23683
+    - 23739
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23739
+    - 23816
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23816
+    - 23915
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23915
+    - 23915
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23915
+    - 23954
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23954
+    - 23954
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23954
+    - 23972
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23972
+    - 23991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 23991
+    - 24012
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24012
+    - 24012
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24012
+    - 24036
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24036
+    - 24052
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24052
+    - 24071
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24071
+    - 24090
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24090
+    - 24099
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24099
+    - 24128
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24128
+    - 24128
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7268p1.s5
+    span:
+    - body
+    - 24128
+    - 24165
+  label: 五増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24165
+    - 24165
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24165
+    - 24209
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24209
+    - 24209
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7272head.s4.1
+    span:
+    - body
+    - 24209
+    - 24319
+  label: 其比例
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24319
+    - 24319
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24319
+    - 24336
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24336
+    - 24357
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24357
+    - 24383
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24383
+    - 24383
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24383
+    - 24404
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24404
+    - 24433
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24433
+    - 24473
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24473
+    - 24473
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24473
+    - 24502
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24502
+    - 24523
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24523
+    - 24536
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24536
+    - 24554
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24554
+    - 24560
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24560
+    - 24579
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24579
+    - 24591
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7289p1.s5
+    span:
+    - body
+    - 24591
+    - 24636
+  label: 六増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24636
+    - 24636
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24636
+    - 24636
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24636
+    - 24741
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24741
+    - 24741
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24741
+    - 24805
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24805
+    - 24805
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24805
+    - 24805
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24805
+    - 24824
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24824
+    - 24844
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24844
+    - 24848
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24848
+    - 24881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24881
+    - 24900
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24900
+    - 24940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24940
+    - 24940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24940
+    - 24973
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 24973
+    - 25009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7306head.s4
+    span:
+    - body
+    - 25009
+    - 25011
+  label: 今附
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7307p1.s5
+    span:
+    - body
+    - 25011
+    - 25035
+  label: 七増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25035
+    - 25035
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25035
+    - 25132
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25132
+    - 25146
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25146
+    - 25191
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25191
+    - 25191
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25191
+    - 25191
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25191
+    - 25213
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25213
+    - 25213
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7316p1.s5
+    span:
+    - body
+    - 25213
+    - 25235
+  label: 八増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25235
+    - 25235
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25235
+    - 25344
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7319head.s4
+    span:
+    - body
+    - 25344
+    - 25375
+  label: 九増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25375
+    - 25394
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25394
+    - 25394
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25394
+    - 25468
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25468
+    - 25487
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25487
+    - 25526
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25526
+    - 25591
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25591
+    - 25610
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25610
+    - 25637
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25637
+    - 25641
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7329p1.s5
+    span:
+    - body
+    - 25641
+    - 25662
+  label: 十増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25662
+    - 25681
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25681
+    - 25694
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25694
+    - 25719
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25719
+    - 25734
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25734
+    - 25804
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7335head.s4
+    span:
+    - body
+    - 25804
+    - 25830
+  label: 題言兩圖之甲乙
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25830
+    - 25837
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25837
+    - 25926
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25926
+    - 25947
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25947
+    - 25966
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25966
+    - 25987
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 25987
+    - 26007
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26007
+    - 26007
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7343p1.s5
+    span:
+    - body
+    - 26007
+    - 26026
+  label: 十一増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26026
+    - 26057
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26057
+    - 26110
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26110
+    - 26131
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26131
+    - 26149
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26149
+    - 26176
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26176
+    - 26176
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7350p1.s5
+    span:
+    - body
+    - 26176
+    - 26208
+  label: 十二増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26208
+    - 26208
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26208
+    - 26231
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26231
+    - 26294
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26294
+    - 26318
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26318
+    - 26337
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26337
+    - 26337
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7357p1.s5
+    span:
+    - body
+    - 26337
+    - 26358
+  label: 十三増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26358
+    - 26379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26379
+    - 26379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26379
+    - 26460
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26460
+    - 26483
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26483
+    - 26498
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26498
+    - 26513
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26513
+    - 26596
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26596
+    - 26618
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26618
+    - 26639
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26639
+    - 26663
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26663
+    - 26700
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26700
+    - 26700
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26700
+    - 26717
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26717
+    - 26754
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26754
+    - 26754
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26754
+    - 26761
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26761
+    - 26844
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26844
+    - 26865
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26865
+    - 26891
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26891
+    - 26906
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26906
+    - 26990
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 26990
+    - 27009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27009
+    - 27043
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27043
+    - 27062
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27062
+    - 27087
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27087
+    - 27102
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27102
+    - 27126
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27126
+    - 27135
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7386p1.s5
+    span:
+    - body
+    - 27135
+    - 27156
+  label: 十四増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27156
+    - 27171
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27171
+    - 27192
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27192
+    - 27353
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7390head.s4
+    span:
+    - body
+    - 27353
+    - 27369
+  label: 用此法
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27369
+    - 27389
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27389
+    - 27396
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27396
+    - 27512
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27512
+    - 27529
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27529
+    - 27643
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27643
+    - 27663
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27663
+    - 27678
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27678
+    - 27697
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27697
+    - 27776
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27776
+    - 27791
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27791
+    - 27828
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27828
+    - 27828
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27828
+    - 27862
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27862
+    - 27862
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27862
+    - 27891
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27891
+    - 27914
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27914
+    - 27914
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27914
+    - 27938
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27938
+    - 27952
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27952
+    - 27963
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27963
+    - 27987
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27987
+    - 27997
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 27997
+    - 28017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28017
+    - 28026
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0047_WYG_006-d7415p1.s5
+    span:
+    - body
+    - 28026
+    - 28042
+  label: 十五増題
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28042
+    - 28063
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28063
+    - 28157
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28157
+    - 28164
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28164
+    - 28189
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28189
+    - 28210
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28210
+    - 28307
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28307
+    - 28327
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28327
+    - 28347
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28347
+    - 28365
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28365
+    - 28446
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28446
+    - 28446
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28446
+    - 28477
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28477
+    - 28492
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28492
+    - 28514
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28514
+    - 28539
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28539
+    - 28549
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28549
+    - 28568
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28568
+    - 28585
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 28585
+    - 28591
+  label: ''
+  type: section
+  level: 1
+hash: sha256:68c05452e8737af9dd06872b12f321a612d04f1138867414b97efbe2b82ac624

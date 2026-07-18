@@ -446,6 +446,7 @@ markers:
   - {type: punctuation, offset: 723, content: ？, id: KR3f0047_WYG_005-bkkpn168}
   - {type: punctuation, offset: 723, content: ), id: KR3f0047_WYG_005-bkkpn169}
   - {type: 'tls:seg', offset: 723, content: '', id: KR3f0047_WYG_005-d66p14.s41.4}
+  - {type: 'voice:problem', offset: 723, length: 0, id: KR3f0047_bkk_005-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 723 with no matching '('}
   - {type: punctuation, offset: 729, content: 。, id: KR3f0047_WYG_005-bkkpn170}
   - {type: 'tls:seg', offset: 729, content: '', id: KR3f0047_WYG_005-d66p14.s41.5}
   - {type: line-break, offset: 731, content: '', id: KR3f0047_WYG_005-bkklb48}
@@ -10318,4 +10319,4 @@ markers:
   - {type: variant, offset: 17158, length: 0, content: '', WYG: 幾何原本卷五}
   - {type: variant, offset: 17158, length: 0, content: '', krp: 幾何原本卷五}
   back: []
-hash: sha256:c851de3f1a14d7bf1cbe97da0e411f57d912662cddae27d67b774a74b62c14f6
+hash: sha256:b97e553bac37f4b16d6cfcbf5318f828ebbf84e0c4b68a3a2d51c1d08bc5a380

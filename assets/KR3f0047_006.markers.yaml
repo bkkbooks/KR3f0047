@@ -1612,6 +1612,7 @@ markers:
   - {type: punctuation, offset: 3152, content: (, id: KR3f0047_WYG_006-bkkpn595}
   - {type: variant, offset: 3152, length: 0, content: '', WYG: 一卷三八即甲乙丙與丁戊己之比例若甲壬子與丁癸丑也五卷七今以甲壬丁癸為底即甲壬子與丁癸丑两角形之比例若甲壬與丁癸兩底也本篇一而甲乙丙與丁戊乙之比例亦若甲壬與丁癸矣又甲乙丙與丁戊己兩角形之比例既以倍大故若甲庚乙丙與丁戊己辛兩方形之比例五卷十五即兩方形之比例亦若甲壬與丁癸兩底也五卷十一若作庚子辛丑兩線亦依前論推顯}
   - {type: variant, offset: 3152, length: 0, content: '', krp: 一卷三八即甲乙丙與丁戊己之比例若甲壬子與丁癸丑也五卷七今以甲壬丁癸為底即甲壬子與丁癸丑两角形之比例若甲壬與丁癸兩底也本篇一而甲乙丙與丁戊乙之比例亦若甲壬與丁癸矣又甲乙丙與丁戊己兩角形之比例既以倍大故若甲庚乙丙與丁戊己辛兩方形之比例五卷十五即兩方形之比例亦若甲壬與丁癸兩底也五卷十一若作庚子辛丑兩線亦依前論推顯}
+  - {type: 'voice:problem', offset: 3152, length: 3, id: KR3f0047_bkk_006-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 3152, got ''('' at offset 3155'}
   - {type: punctuation, offset: 3153, content: 、, id: KR3f0047_WYG_006-bkkpn579}
   - {type: 'tls:seg', offset: 3153, content: '', id: KR3f0047_WYG_006-d73p1.s6.2}
   - {type: xml-element, offset: 3155, content: '', id: KR3f0047_WYG_006-d715p1.3}
@@ -16610,4 +16611,4 @@ markers:
   - {type: xml-element, offset: 20108, content: '', id: KR3f0047_WYG_006-d7385p1_end}
   - {type: line-break, offset: 20108, content: '', id: KR3f0047_WYG_006-bkklb1589}
   back: []
-hash: sha256:89ad329a98a841b59b9e912451138455d4c30280abbdfbaafef33ea99d5936a3
+hash: sha256:3682b840f9afc85a234c634db33dbeae81a181c212c3ab3aa59a8ab4b665e1b2

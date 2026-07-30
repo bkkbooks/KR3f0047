@@ -17,7 +17,7 @@ metadata:
     short: WYG
 assets:
   parts:
-  - {seq: 0, filename: KR3f0047_000-WYG.yaml, hash: 'sha256:9896364c3bd72ca18af6a0a8126e59bb91122321e80a95fb577adb9a99274719'}
+  - {seq: 0, filename: KR3f0047_000-WYG.yaml, hash: 'sha256:04745002bb8b482b80f54f6624da604f5c86904f5144536a4c99eb6c2688b32f'}
   - {seq: 1, filename: KR3f0047_001-WYG.yaml, hash: 'sha256:8149cf37d78bc05c6c42915f8da332c72d6d07fca8fdefe960f7388038a19a15'}
   - {seq: 2, filename: KR3f0047_002-WYG.yaml, hash: 'sha256:9a627650a7f5530f859133d4d144f20eedd5a27403db9b51701dbb72a0e9ff61'}
   - {seq: 3, filename: KR3f0047_003-WYG.yaml, hash: 'sha256:23a1525c459cde8b8bb01561ef46795ddea3e5b05a6ecadd56876e342f06b0d8'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3f0047_005-WYG.yaml, hash: 'sha256:97b4b6ed0c62333e4390465d5776999832e709bbd2c0c37db2b0e4e389ad5e20'}
   - {seq: 6, filename: KR3f0047_006-WYG.yaml, hash: 'sha256:7a72fb9f982aa2f9007c8bb0c7b15faa50166ca7ef4cf7e068558fed7f1c1385'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0047_000-WYG.markers.yaml, hash: 'sha256:66a26041f3c44317caa19383d32bf6b95e66484e57507a0afd4a6054d04a5b88'}
+  - {seq: 0, role: markers, filename: assets/KR3f0047_000-WYG.markers.yaml, hash: 'sha256:cd3e6d73b8d11f59c2a0c170ebddab97e4bae0b2f0a4787788b3a9b66803ec9e'}
   - {seq: 1, role: markers, filename: assets/KR3f0047_001-WYG.markers.yaml, hash: 'sha256:71b35cc25af8788dbee445b315113e03e1fc10076badea41638a020fa0e8ef26'}
   - {seq: 2, role: markers, filename: assets/KR3f0047_002-WYG.markers.yaml, hash: 'sha256:87fba4fffd00df8ab8d66ef64f634857fa2cb78dbbba33b99f61d24927cd870f'}
   - {seq: 3, role: markers, filename: assets/KR3f0047_003-WYG.markers.yaml, hash: 'sha256:fba7af81f1320e6dc903b510a829377af46035fb44198e0d70ca1f09c80f336e'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3f0047_WYG_000-d12head.s1
     span:
-    - front
+    - body
     - 0
     - 562
   label: 幾何原本序
@@ -48,8 +48,8 @@ table_of_contents:
     marker_id: KR3f0047_WYG_000-d11head.s3
     span:
     - body
-    - 0
-    - 382
+    - 562
+    - 944
   label: 提要
   type: section
   level: 1
@@ -9163,4 +9163,4 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:ec77c9472f2a1aec499656e08e3f72859d15971821616c5ba29e035ead167a1d
+hash: sha256:b130dab6e8e49ea6fad7dee5a42ec8600aa2e408997767f941b39ce5fdd27b46
